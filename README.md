@@ -4,7 +4,7 @@ the system was specifically made to help us communicate/command the system and r
 which where then used for acaademic purposes 
 
 # development
-the app was developed using pyqt (a python cpp wrapper for the QT) and python
+the app was developed using pyqt (a comprehensive set of Python bindings for Qt) and python
 
 # usage
 consider this for learning purpose because it has no subsequent use, 
