@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="pics">
+    <file>makon.png</file>
+    <file>multiply_52px.png</file>
+    <file>plot_240px.png</file>
+    <file>pressure_96px.png</file>
+    <file>speed_96px.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="pics">
+    <file>E:/PROJECTS/makonela imps/python HMI/makonHMI/resourcess/critical_thinking_100px.png</file>
+    <file>E:/PROJECTS/makonela imps/python HMI/makonHMI/resourcess/MAGX TECH.png</file>
+    <file>E:/PROJECTS/makonela imps/python HMI/makonHMI/resourcess/makon.png</file>
+    <file>E:/PROJECTS/makonela imps/python HMI/makonHMI/resourcess/multiply_52px.png</file>
+    <file>E:/PROJECTS/makonela imps/python HMI/makonHMI/resourcess/plot_240px.png</file>
+    <file>E:/PROJECTS/makonela imps/python HMI/makonHMI/resourcess/pressure_96px.png</file>
+    <file>E:/PROJECTS/makonela imps/python HMI/makonHMI/resourcess/speed_96px.png</file>
+    <file>plot_100px.png</file>
+  </qresource>
+</RCC>

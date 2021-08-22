@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>facebook_96px.png</file>
+    <file>gmail_96px.png</file>
+    <file>instagram_96px.png</file>
+    <file>MAGX TECH.png</file>
+    <file>phone_message_240px.png</file>
+    <file>whatsapp_96px.png</file>
+  </qresource>
+</RCC>
